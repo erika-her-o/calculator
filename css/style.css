@@ -1,0 +1,29 @@
+.calculator {
+ display: block;
+ margin: 0 auto;
+ padding: 20px;
+ background-color:rgb(150, 150, 235);
+width: 350px;
+height: 500px;
+border-radius: 20px;
+}
+.calculator td button {
+display: block;
+width: 70px;
+height: 70px;
+font-size: 30px;
+}
+#outcome {
+display: block;
+text-align: center;
+font-size: 40px;
+margin-bottom: 50px;
+width: 300px;
+height: 100px;
+line-height: 100px;
+background-color: rgb(65, 65, 223);
+border-radius: 25px;
+}
+#reset{
+    background-color: chocolate;
+}
